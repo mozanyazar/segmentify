@@ -1,0 +1,89 @@
+[
+  {
+    "name": "Dresses",
+    "steps": [
+      {
+        "step": 0,
+        "type": "question",
+        "subtype": "category",
+        "title": "Which category are you interested in?",
+        "subtitle": "",
+        "answers": ["Dresses", "Clothing", "Accessories"]
+      },
+      {
+        "step": 1,
+        "type": "color",
+        "subtype": "color",
+        "title": "What is your favourite colour?",
+        "subtitle": "Everyone has a favorite color but we wonder about yours...",
+        "answers": ["Black", "Red", "Green", "Blue"]
+      },
+      {
+        "step": 2,
+        "type": "price",
+        "subtype": "price",
+        "title": "Price question will be placed?",
+        "subtitle": "Lets think about the money...",
+        "answers": ["0-25", "25-50", "50-100", "100+"]
+      }
+    ]
+  },
+  {
+    "name": "Clothing",
+    "steps": [
+      {
+        "step": 0,
+        "type": "question",
+        "subtype": "category",
+        "title": "Which category are you interested in?",
+        "subtitle": "",
+        "answers": ["Dresses", "Clothing", "Accessories"]
+      },
+      {
+        "step": 1,
+        "type": "color",
+        "subtype": "color",
+        "title": "What is your favourite colour?",
+        "subtitle": "",
+        "answers": ["Beige", "Black", "Brown", "Navy", "Cream"]
+      },
+      {
+        "step": 2,
+        "type": "price",
+        "subtype": "price",
+        "title": "Price question will be placed?",
+        "subtitle": "Lets think about the money...",
+        "answers": ["0-25", "25-50", "50-100", "100+"]
+      }
+    ]
+  },
+  {
+    "name": "Accessories",
+    "steps": [
+      {
+        "step": 0,
+        "type": "question",
+        "subtype": "category",
+        "title": "Which category are you interested in?",
+        "subtitle": "",
+        "answers": ["Dresses", "Clothing", "Accessories"]
+      },
+      {
+        "step": 1,
+        "type": "color",
+        "subtype": "color",
+        "title": "What is your favourite colour?",
+        "subtitle": "",
+        "answers": ["Beige", "Black", "Blue", "Brown", "Cream"]
+      },
+      {
+        "step": 2,
+        "type": "price",
+        "subtype": "price",
+        "title": "Price question will be placed?",
+        "subtitle": "Lets think about the money...",
+        "answers": ["0-25", "25-50", "50-150"]
+      }
+    ]
+  }
+]
