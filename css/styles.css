@@ -375,11 +375,14 @@ span.swiper-pagination-bullet {
       bottom: -7% !important;
    }
 }
-@media screen and (max-height: 400px) {
+@media screen and (max-height: 420px) {
    .swiper-slide img {
       width: 120px;
    }
    .slider-image-wrapper {
       min-height: 120px;
+   }
+   .question {
+      min-height: 277px;
    }
 }
