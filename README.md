@@ -2,7 +2,7 @@
 
 ###### Uygulamada kullanıcıdan aldığımız cevapları ve kaçıncı adımda olduğumuzu `store` isimdeki bir localStorage'a kaydederek kullanıcının sayfadan çıktığı veya sayfayı yenilediği durumlarda aynı adımdan devam edebilmesine olanak sağlar.
 
-###### Kategorilerin adım sayısından html'de gördüğümüz tüm veriler dinamik olarak JSON dosyasından gelir ve eğer bu jsonları bir api olarak düşünürsek gelecek veri örneğin bir kategorinin soru sayısı değişse dahi uygulama düzgün şekilde çalışmaya devam eder.
+###### Kategorilerin adım sayısından html'de gördüğümüz tüm veriler dinamik olarak JSON dosyasından gelir ve eğer bu jsonları bir api olarak düşünürsek gelecek veri, örneğin bir kategorinin soru sayısı değişse dahi uygulama düzgün şekilde çalışmaya devam eder.
 
 ### Dosya düzeni
 
