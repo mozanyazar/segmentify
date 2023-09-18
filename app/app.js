@@ -33,7 +33,7 @@ export const showProducts = (products) => {
         <div class="slider-image-wrapper"><img src=${product.image} loading="lazy" /></div>
         <p class="product-title">${product.name}</p>
         <p class="product-price">€ ${product.price}</p>
-        <p class="product-old-price">€ ${product.oldPrice ? '$' + product.oldPrice : ''}</p>
+        <p class="product-old-price">${product.oldPrice ? '€' + product.oldPrice : ''}</p>
         <button disabled>VIEW PRODUCT</button>
         </div>
       `
